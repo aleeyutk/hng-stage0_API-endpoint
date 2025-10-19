@@ -28,7 +28,18 @@ A Spring Boot REST API that returns profile information along with dynamic cat f
 
 ### Installation
 
-1. Clone the repository:
+>> 1. Clone the repository:
 ```bash
 git clone https://github.com/aleeyutk/hng-stage0_API-endpoint.git
 cd hng-stage0_API-endpoint/profile-api
+
+2. Build the application:
+bash
+mvn clean package
+
+3.Run the application:
+bash
+mvn spring-boot:run
+The API will be available at http://localhost:8080
+
+
