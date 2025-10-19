@@ -43,7 +43,7 @@ Returns your profile information and a fresh cat fact with each request.
   "fact": "Cats sleep 70% of their lives."
 }
 
-
+```
 ## Tech Stack
 
 - Java 17
@@ -63,15 +63,36 @@ Returns your profile information and a fresh cat fact with each request.
 #1. Clone the repository:
 ```bash
 git clone https://github.com/aleeyutk/hng-stage0_API-endpoint.git
-cd hng-stage0_API-endpoint/profile-api
+cd hng-stage0_API-endpoint/profile
+```
 
-#2. Build the application:
-#bash
+2. Build the application:
+```bash
 mvn clean package
-
+```
 3.Run the application:
-#bash
+```bash
 mvn spring-boot:run
+```
 ## The API will be available at http://localhost:8080
+
+
+##Project structure
+src/main/java/com/yourcompany/profileapi/
+├── ProfileApiApplication.java
+├── controller/
+│   ├── ProfileController.java
+│   └── HealthController.java
+├── service/
+│   └── CatFactService.java
+├── model/
+│   ├── ProfileResponse.java
+│   ├── User.java
+│   └── CatFactResponse.java
+├── config/
+│   ├── WebConfig.java
+│   └── RestTemplateConfig.java
+└── util/
+    └── LoggingUtil.java
 
 
