@@ -1,0 +1,10 @@
+/home/haidara/Desktop/HNG-internship/profile-api/src/main/java/com/haidara/profileapi/model/ProfileResponse.java
+/home/haidara/Desktop/HNG-internship/profile-api/src/main/java/com/haidara/profileapi/controller/HealthController.java
+/home/haidara/Desktop/HNG-internship/profile-api/src/main/java/com/haidara/profileapi/model/User.java
+/home/haidara/Desktop/HNG-internship/profile-api/src/main/java/com/haidara/profileapi/model/CatFactResponse.java
+/home/haidara/Desktop/HNG-internship/profile-api/src/main/java/com/haidara/profileapi/controller/ProfileController.java
+/home/haidara/Desktop/HNG-internship/profile-api/src/main/java/com/haidara/profileapi/util/LoggingUtil.java
+/home/haidara/Desktop/HNG-internship/profile-api/src/main/java/com/haidara/profileapi/config/WebConfig.java
+/home/haidara/Desktop/HNG-internship/profile-api/src/main/java/com/haidara/profileapi/service/CatFactService.java
+/home/haidara/Desktop/HNG-internship/profile-api/src/main/java/com/haidara/profileapi/ProfileApiApplication.java
+/home/haidara/Desktop/HNG-internship/profile-api/src/main/java/com/haidara/profileapi/config/RestTemplateConfig.java
